@@ -8,8 +8,3 @@ url = "https://raw.githubusercontent.com/daobaa/M14Datasets/master/mxmh_survey_r
 
 # Leer el archivo CSV desde la URL
 df = pd.read_csv(url)
-
-# -------------------------------
-# Sección 2: Análisis de Datos
-# -------------------------------
-df.head()
